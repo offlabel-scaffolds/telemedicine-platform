@@ -1,0 +1,43 @@
+{
+  "name": "telemedicine-platform",
+  "displayName": "Telemedicine Video Platform",
+  "description": "End-to-end telemedicine platform with video calls, prescriptions, and appointments",
+  "version": "1.0.0",
+  "author": "Augustus Rivers - Offlabel Design",
+  "license": "MIT",
+  "repository": "https://github.com/offlabel-scaffolds/telemedicine-platform",
+  "tech": [
+    "Next.js",
+    "WebRTC",
+    "Node.js",
+    "PostgreSQL",
+    "Redis"
+  ],
+  "categories": [
+    "fullstack",
+    "healthcare"
+  ],
+  "usecases": [
+    "healthcare",
+    "saas"
+  ],
+  "priority": "high",
+  "maturity": "stable",
+  "complexity": "advanced",
+  "features": [
+    "Video Calls",
+    "E-Prescriptions",
+    "Scheduling",
+    "HIPAA",
+    "Chat",
+    "Payment"
+  ],
+  "hasDemo": true,
+  "hasCLI": false,
+  "securityFeatures": [
+    "HIPAA",
+    "Encryption",
+    "Audit Logs"
+  ],
+  "lastUpdated": "2025-10-03"
+}
