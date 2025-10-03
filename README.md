@@ -2,16 +2,16 @@
 
 End-to-end telemedicine platform with video calls, prescriptions, and appointments
 
-## 🎯 Features
+## Ships With
 
-- ✅ Video Calls
-- ✅ E-Prescriptions
-- ✅ Scheduling
-- ✅ HIPAA
-- ✅ Chat
-- ✅ Payment
+- Video Calls
+- E-Prescriptions
+- Scheduling
+- HIPAA
+- Chat
+- Payment
 
-## 🛠️ Tech Stack
+## Technologies
 
 - Next.js
 - WebRTC
@@ -19,7 +19,7 @@ End-to-end telemedicine platform with video calls, prescriptions, and appointmen
 - PostgreSQL
 - Redis
 
-## 🚀 Quick Start
+## Running Locally
 
 ```bash
 # Clone the repository
@@ -35,19 +35,19 @@ cp .env.example .env
 npm run dev
 ```
 
-## 📚 Documentation
+## Documentation
 
 - [Getting Started](./docs/getting-started.md)
 - [API Reference](./docs/api-reference.md)
 - [Deployment Guide](./docs/deployment.md)
 - [Security Best Practices](./docs/security.md)
 
-## 🏢 Use Cases
+## Use Cases
 
 - **Healthcare**
 - **Saas**
 
-## 🔒 Compliance & Security
+## Compliance & Security
 
 This scaffold includes built-in compliance features for:
 - HIPAA compliance
@@ -58,14 +58,14 @@ This scaffold includes built-in compliance features for:
 - Rate limiting and DDoS protection
 - Security headers and CORS
 
-## 📄 License
+## License
 
 MIT License - see [LICENSE](./LICENSE)
 
-## 🤝 Contributing
+## Contributing
 
 See [CONTRIBUTING.md](./CONTRIBUTING.md)
 
 ---
 
-Built with care and coffee ☕ by [Offlabel Design](https://offlabel.design)
+Built with care and coffee by [Offlabel Design](https://offlabel.design)
